@@ -1,2 +1,0 @@
-this is my master file
-updated content from private branch
